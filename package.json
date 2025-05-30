@@ -54,7 +54,7 @@
     "seneca-promisify": ">=2"
   },
   "dependencies": {
-    "@octokit/rest": "^18.12.0",
+    "@octokit/rest": "^22.0.0",
     "googleapis": "^49.0.0",
     "underscore": "^1.13.2"
   }
